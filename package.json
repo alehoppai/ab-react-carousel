@@ -6,6 +6,7 @@
   "version": "0.0.1",
   "description": "Simple React carousel package",
   "scripts": {
+    "dev": "rollup -c -w",
     "rollup": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,6 +26,7 @@
     "@types/react": "^18.0.12",
     "rollup": "^2.75.6",
     "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-watch": "^1.0.1",
     "tslib": "^2.4.0",
     "typescript": "^4.7.3"
   },
