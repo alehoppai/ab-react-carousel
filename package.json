@@ -1,5 +1,8 @@
 {
-  "name": "ab-react-carousel",
+  "name": "@alehoppai/ab-react-carousel",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alehoppai"
+  },
   "version": "0.0.1",
   "description": "Simple React carousel package",
   "scripts": {
